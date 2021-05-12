@@ -1,0 +1,2 @@
+C:\Users\brade\Desktop\Van Ry Lab Visual Studio Projects\ProteinMutation\Debug\ProteinMutation.exe
+C:\Users\brade\Desktop\Van Ry Lab Visual Studio Projects\ProteinMutation\Debug\ProteinMutation.pdb

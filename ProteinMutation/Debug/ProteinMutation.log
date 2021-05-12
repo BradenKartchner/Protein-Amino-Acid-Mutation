@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\brade\Desktop\Van Ry Lab Visual Studio Projects\ProteinMutation\Main.cpp(53,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\brade\Desktop\Van Ry Lab Visual Studio Projects\ProteinMutation\Main.cpp(56,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\brade\Desktop\Van Ry Lab Visual Studio Projects\ProteinMutation\Main.cpp(60,16): warning C4018: '<': signed/unsigned mismatch
+  ProteinMutation.vcxproj -> C:\Users\brade\Desktop\Van Ry Lab Visual Studio Projects\ProteinMutation\Debug\ProteinMutation.exe
